@@ -1,3 +1,3 @@
 ## Welcome
 
-I am a student from ZJE
+I am a student from ZJE.
